@@ -1,3 +1,3 @@
 # University Projects
 
-Algoright Design
+Algorithm Design
